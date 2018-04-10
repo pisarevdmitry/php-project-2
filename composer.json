@@ -1,0 +1,12 @@
+{
+   "autoload":{
+     "classmap": [
+       "./"
+     ]
+   },
+   "require": {
+      "illuminate/database": "^5.6",
+      "intervention/image": "^2.4",
+      "fzaninotto/faker": "^1.7"
+   }
+}
